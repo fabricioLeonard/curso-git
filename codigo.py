@@ -1,6 +1,1 @@
-print("ByLearn")
-print("Git")
-print("Terceira Linha")
-print("Quarta Linha")
-print("Quinta Linha")
-print("Sexta Linha")
+print("Curso de Git da ByLearn")
