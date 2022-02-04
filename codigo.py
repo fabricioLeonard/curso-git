@@ -1,3 +1,3 @@
 print("ByLearn")
 print("Git")
-print("Tersseira Linha")
+print("Terceira Linha")
